@@ -41,11 +41,11 @@
             <div class="nav-collapse collapse pull-right">
                 <ul class="nav" id="top-navigation">
                     <li class="active"><a href="#home">Home</a></li>
-                    <li><a href="#service">Services</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#clients">Clients</a></li>
-                    <li><a href="#price">Price</a></li>
+                    <li><a href="#service">Peta</a></li>
+                    <li><a href="#portfolio">Data Wilayah</a></li>
+                    <li><a href="#about">Jadwal</a></li>
+                    <li><a href="#clients">Perbandingan Wilayah</a></li>
+                    <li><a href="#price">Tentang</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
@@ -110,39 +110,11 @@
     <div class="container">
         <!-- Start title section -->
         <div class="title">
-            <h1>What We Do?</h1>
+            <h1>Peta Indonesia</h1>
             <!-- Section's title goes here -->
-            <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
-            <!--Simple description for section goes here. -->
         </div>
         <div class="row-fluid">
-            <div class="span4">
-                <div class="centered service">
-                    <div class="circle-border zoom-in">
-                        <img class="img-circle" src="images/Service1.png" alt="service 1">
-                    </div>
-                    <h3>Modern Design</h3>
-                    <p>We Create Modern And Clean Theme For Your Business Company.</p>
-                </div>
-            </div>
-            <div class="span4">
-                <div class="centered service">
-                    <div class="circle-border zoom-in">
-                        <img class="img-circle" src="images/Service2.png" alt="service 2" />
-                    </div>
-                    <h3>Powerfull Theme</h3>
-                    <p>We Create Modern And Powerful Theme With Lots Animation And Features</p>
-                </div>
-            </div>
-            <div class="span4">
-                <div class="centered service">
-                    <div class="circle-border zoom-in">
-                        <img class="img-circle" src="images/Service3.png" alt="service 3">
-                    </div>
-                    <h3>Clean Code</h3>
-                    <p>We Create Modern And Powerful Html5 And CSS3 Code Easy For Read And Customize.</p>
-                </div>
-            </div>
+            <img src="images/petaindonesia.png">
         </div>
     </div>
 </div>
@@ -152,21 +124,26 @@
     <div class="triangle"></div>
     <div class="container">
         <div class=" title">
-            <h1>Have You Seen our Works?</h1>
-            <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
+            <h1>Pilih Provinsi</h1>
+            <p>Pilih provinsi yang ingin kamu ketahui datanya</p>
         </div>
         <ul class="nav nav-pills">
             <li class="filter" data-filter="all">
-                <a href="#noAction">All</a>
+                <select>
+                    <option value="Jawa Tengah"> Jawa Tengah</option>
+                    <option value="Jawa Tengah"> Jawa Timur</option>
+                    <option value="Jawa Tengah"> Jawa Barat</option>
+
+                </select>
             </li>
             <li class="filter" data-filter="web">
-                <a href="#noAction">Web</a>
+                <a href="#noAction">Data Wilayah</a>
             </li>
             <li class="filter" data-filter="photo">
-                <a href="#noAction">Photo</a>
+                <a href="#noAction">Sensus Profesi</a>
             </li>
             <li class="filter" data-filter="identity">
-                <a href="#noAction">Identity</a>
+                <a href="#noAction">Gallery</a>
             </li>
         </ul>
         <!-- Start details for portfolio project 1 -->
@@ -945,7 +922,7 @@
 <!-- ScrollUp button start -->
 <div class="scrollup">
     <a href="#">
-        <i class="icon-up-open"></i>
+        <img src="images/scrollup.png">
     </a>
 </div>
 <!-- ScrollUp button end -->

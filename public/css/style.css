@@ -902,3 +902,18 @@ p {
         margin-top:30px;
     }
 }
+
+/**************************** SECTION 2 ******************************/
+select{
+  background-color: transparent; 
+  border: 1px solid #181A1C;
+  margin-right: 510px;
+  margin-top: 3px;
+}
+
+select option{
+  background-color: #FECE1A;
+  filter:alpha(opacity=40);
+  -moz-opacity:.10;
+  opacity:.10;
+}

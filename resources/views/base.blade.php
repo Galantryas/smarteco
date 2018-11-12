@@ -29,10 +29,10 @@
                             <div class="collapse navbar-collapse" id="myNav">
                                 <ul class="nav navbar-nav cus-nav navbar-right">
                                     <li><a href="#" class="active">Home</a></li>
-                                    <li><a href="#" class="active">About</a></li>
-                                    <li><a href="#" class="active">Portofolio</a></li>
-                                    <li><a href="#" class="active">Services</a></li>
-                                    <li><a href="#" class="active">Contact</a></li>
+                                    <li><a href="#" class="active">Data Wilayah</a></li>
+                                    <li><a href="#" class="active">Jadwal</a></li>
+                                    <li><a href="#" class="active">Perbandingan Wilayah</a></li>
+                                    <li><a href="#" class="active">Tentang</a></li>
                                 </ul>
                             </div>
                         </div>
